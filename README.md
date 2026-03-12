@@ -9,7 +9,7 @@
 ________________________________________
 📥 Як встановити
 1.	Скачайте файл стилю dstu-8302-2015 by YNA(PUET) v10.8.csl з цього репозиторію.
-   📥 [Завантажити файл стилю (.csl)]([https://github.com](https://github.com/Yuriy-Nabasov/zotero-dstu-8302-2015/dstu-8302-2015 by YNA(PUET) v10.8.csl)
+   📥 [Завантажити файл стилю (.csl)](https://github.com/Yuriy-Nabasov/zotero-dstu-8302-2015/raw/main/dstu-8302-2015_by_YNA%28PUET%29_v10.8.csl)
 3.	Відкрийте Zotero.
 4.	Перейдіть у меню:
 o	Windows: Правка → Налаштування → Цитування → Стилі.
